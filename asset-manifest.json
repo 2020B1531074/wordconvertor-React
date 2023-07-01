@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wordconvertor-React/static/css/main.2784506f.css",
+    "main.js": "/wordconvertor-React/static/js/main.676413d6.js",
+    "static/js/787.2b99d3ff.chunk.js": "/wordconvertor-React/static/js/787.2b99d3ff.chunk.js",
+    "index.html": "/wordconvertor-React/index.html",
+    "main.2784506f.css.map": "/wordconvertor-React/static/css/main.2784506f.css.map",
+    "main.676413d6.js.map": "/wordconvertor-React/static/js/main.676413d6.js.map",
+    "787.2b99d3ff.chunk.js.map": "/wordconvertor-React/static/js/787.2b99d3ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2784506f.css",
+    "static/js/main.676413d6.js"
+  ]
+}
